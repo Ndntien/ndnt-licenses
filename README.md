@@ -75,7 +75,7 @@ Chỉ APK tải từ trang Releases chính thức (ndnt-licenses) mới cùng ch
 
 ## Liên hệ
 
-- Mua license / hỗ trợ: **[điền Zalo / Telegram / Facebook của bạn]**
+- Mua license / hỗ trợ: **XXXXX nullrenew@gmail.com**
 - Báo lỗi: [mở Issue](https://github.com/Ndntien/NT-GPS/issues/new/choose) (nhớ ghi model máy, Android, phiên bản app; **đừng** dán token hay thông tin cá nhân).
 
 ## Lưu ý
