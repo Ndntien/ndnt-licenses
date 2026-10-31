@@ -1,6 +1,6 @@
 <div align="center">
 
-# NT-GPS
+# NullR-GPS
 
 **Module giả vị trí & mô phỏng lộ trình cho Android (LSPosed)**
 
@@ -40,7 +40,7 @@ Chọn điểm trên bản đồ hoặc để máy "lái xe" theo lộ trình th
 1. Vào trang [**Releases**](https://github.com/Ndntien/ndnt-licenses/releases/latest), tải file `.apk` mới nhất.
 2. Cài APK như app thường (bật *Cho phép cài từ nguồn này* nếu máy hỏi).
 3. Mở **LSPosed** → *Modules* → bật module → chọn phạm vi (scope) theo hướng dẫn trong app.
-4. Mở app NT-GPS, cấp quyền **vị trí** và **thông báo**.
+4. Mở app NullR-GPS, cấp quyền **vị trí** và **thông báo**.
 5. Vào **Target Apps**, chọn app cần giả vị trí, rồi **khởi động lại máy một lần**.
 
 > Bản cập nhật sau này cài đè trực tiếp lên bản cũ, không cần gỡ.
